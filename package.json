@@ -1,7 +1,7 @@
 {
   "name": "vscode-inky-snippets",
   "displayName": "Inky Snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inky email templating language snippets.",
   "icon": "https://github.com/adelonzeta/vscode-inky-snippets/raw/master/inky.jpg",
   "author": "Adelon Zeta <support@adelonzeta.com>",
