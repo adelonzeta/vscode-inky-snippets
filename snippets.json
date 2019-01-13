@@ -1,0 +1,52 @@
+{
+  "Inky Wrapper": {
+		"prefix": "wrapper",
+		"body": "<wrapper>$0</wrapper>",
+		"description": "Inky Wrapper \n\n Wrapper creates the necessary structure to wrap elements so that full width backgrounds can applied. \n\n http://foundation.zurb.com/emails/docs/wrapper.html"
+	},
+	"Inky Container": {
+		"prefix": "container",
+		"body": "<container>$0</container>",
+		"description": "Inky Container \n\n All emails should have a container element. This gives the email a maximum width for email clients on larger screens. It also orients the email in the center. \n\n http://foundation.zurb.com/emails/docs/grid.html#container"
+	},
+	"Inky Row": {
+		"prefix": "row",
+		"body": "<row>$0</row>",
+		"description": "Inky Row \n\n A row is a <table> with a <tbody> and <tr>. Inside of this <tr>, you'll place each individual column. The <table> also has the class .row. \n\n https://foundation.zurb.com/emails/docs/grid.html#rows"
+	},
+	"Inky Columns": {
+		"prefix": "columns",
+		"body": "<columns>$0</columns>",
+		"description": "Inky Columns \n\n Inside of the <th> is another full table. The content of your column goes inside of a <th>. Right below that table header should be another <th> with a class of .expander. This empty element helps the column expand to be full-width on small screens. \n\n https://foundation.zurb.com/emails/docs/grid.html#columns"
+	},
+	"Inky Button": {
+		"prefix": "button",
+		"body": "<button href=\"$1\">$0</button>",
+		"description": "Inky Button \n\n Buttons are convenient tools when you need more traditional actions. To that end, Foundation has many easy to use button styles that you can customize or override to fit your needs. \n\n http://foundation.zurb.com/emails/docs/button.html"
+	},
+	"Inky Callout": {
+		"prefix": "callout",
+		"body": "<callout>$0</callout>",
+		"description": "Inky Callout \n\n Formerly panels, callouts can be used to create sidebar panels or call out important content in an email. \n\n http://foundation.zurb.com/emails/docs/callout.html"
+	},
+	"Inky Spacer": {
+		"prefix": "spacer",
+		"body": "<spacer size=\"$0\"></spacer>",
+		"description": "Inky Spacer \n\n The spacer component will help you create the space you need, the same on every device and client. \n\n http://foundation.zurb.com/emails/docs/spacer.html"
+	},
+	"Inky Menu": {
+		"prefix": "menu",
+		"body": "<menu>$0</menu>",
+		"description": "Inky Menu \n\n Use the menu component to create a horizontal or vertical list of links. \n\n http://foundation.zurb.com/emails/docs/menu.html"
+	},
+	"Inky Menu Item": {
+		"prefix": "item",
+		"body": "<item href=\"$1\">$0</item>",
+		"description": "Inky Menu Item \n\n Use the item component to create a link inside a menu component. \n\n https://foundation.zurb.com/emails/docs/menu.html"
+	},
+	"Inky Center": {
+		"prefix": "center",
+		"body": "<center>$0</center>",
+		"description": "Inky Center \n\n Wraps around any element or component and let Inky handle the magic behind the scenes. \n\n https://foundation.zurb.com/emails/docs/alignment.html"
+	}
+}
