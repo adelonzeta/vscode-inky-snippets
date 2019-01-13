@@ -1,7 +1,7 @@
 {
   "name": "vscode-inky-snippets",
   "displayName": "Inky Snippets",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Inky email templating language snippets.",
   "author": "Adelon Zeta <support@adelonzeta.com>",
   "publisher": "adelonzeta",
@@ -9,7 +9,9 @@
   "bugs": "https://github.com/adelonzeta/vscode-inky-snippets/issues",
   "homepage": "https://github.com/adelonzeta/vscode-inky-snippets#readme",
   "license": "ISC",
-  "categories": ["Snippets"],
+  "categories": [
+    "Snippets"
+  ],
   "engines": {
     "vscode": "^1.30.2"
   },
