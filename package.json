@@ -3,7 +3,7 @@
   "displayName": "Inky Snippets",
   "version": "1.0.1",
   "description": "Inky email templating language snippets.",
-  "icon": "https://github.com/adelonzeta/vscode-inky-snippets/raw/master/inky.jpg",
+  "icon": "inky.jpg",
   "author": "Adelon Zeta <support@adelonzeta.com>",
   "publisher": "adelonzeta",
   "repository": "git+https://github.com/adelonzeta/vscode-inky-snippets.git",
